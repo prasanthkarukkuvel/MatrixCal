@@ -10,9 +10,7 @@ namespace MatrixBase
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MatrixCal.SplitToInt("1 2 3"));
-
-            Console.Read();
+           
         }
     }
 }
